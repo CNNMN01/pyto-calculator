@@ -30,6 +30,6 @@ Choose from 5 operations:
 - Pyto IDE (iOS)
 - Custom version control system
 
-## History
+## About this Project
 
 This project demonstrates mobile Python development and version control concepts on iOS.
